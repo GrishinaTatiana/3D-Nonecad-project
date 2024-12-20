@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+UnionProject/UnionProject/app.manifest
+UnionProject/UnionProject/UnionProject.manifest
